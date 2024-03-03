@@ -1,0 +1,21 @@
+plate, model, year, manufacturer, vehicle type, one day rental
+IOP123, Accord, 2022, Honda, Sedan, R$90.00
+UYT456, Camry, 2021, Toyota, Sedan, R$85.00
+QAZ789, Malibu, 2023, Chevrolet, Sedan, R$80.00
+POI321, Optima, 2022, Kia, Sedan, R$75.00
+LKJ987, Fusion, 2021, Ford, Sedan, R$88.00
+FGH123, 911 Turbo S, 2022, Porsche, Sports Car, R$300.00
+KLM456, Huracan EVO, 2021, Lamborghini, Supercar, R$500.00
+QWE789, AMG GT, 2023, Mercedes-Benz, Sports Car, R$400.00
+ZXC321, R8 V10 Plus, 2022, Audi, Supercar, R$450.00
+POI987, 488 Pista, 2021, Ferrari, Supercar, R$550.00
+SUV123, RAV4, 2022, Toyota, SUV, R$120.00
+4X4GHI, Grand Cherokee, 2021, Jeep, SUV, R$150.00
+XCX789, XC90, 2023, Volvo, SUV, R$180.00
+QWE321, Explorer, 2022, Ford, SUV, R$130.00
+ZXC987, Tiguan, 2021, Volkswagen, SUV, R$110.00
+TRK123, Tacoma, 2022, Toyota, Pickup Truck, R$110.00
+F150XYZ, F-150, 2021, Ford, Pickup Truck, R$130.00
+SIV789, Silverado, 2023, Chevrolet, Pickup Truck, R$120.00
+RAN321, Ranger, 2022, Ford, Pickup Truck, R$115.00
+TND987, Titan, 2021, Nissan, Pickup Truck, R$125.00

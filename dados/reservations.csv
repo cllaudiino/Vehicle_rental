@@ -1,0 +1,5 @@
+reservation_id, client_id, vehicle_plate, rental_date, return_date, cost, situation
+R001, C004, ABC123, jan/01/2024, jan/10/2024, 1300.00, cancelled
+R002, C007, XYZ789, dez/20/2023, jan
+R003
+R004
